@@ -1,0 +1,13 @@
+img {
+    border: 5px solid #a088df;
+    border-radius: 10px;
+} 
+div {
+    display: flex;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+}
